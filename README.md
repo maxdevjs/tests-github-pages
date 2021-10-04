@@ -6,15 +6,6 @@
 
 <link href="style.css" rel="stylesheet"></link>
 
-<script src='script.js'>
-
-</script>
-
-<div id="extern">
-  <p>this is a `p` in a `div`</p>
-  <p>here should be added something with `js`</p>
-</div>
-
 <div>
   <p>testing with an orange bg</p>
 </div>
@@ -59,4 +50,13 @@ And another.
   div.style.background = 'red'
   const text = document.createTextNode('some text')
   div.appendChild(text)
+</script>
+
+<div id="extern">
+  <p>this is a `p` in a `div`</p>
+  <p>here should be added something with `js`</p>
+</div>
+
+<script src='script.js'>
+
 </script>
