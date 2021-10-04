@@ -1,3 +1,9 @@
+<link href="styletype.css" rel="stylesheet"></link>
+
+<div>
+<p class="line-1 anim-typewriter">Animation typewriter style using css steps()</p>
+</div>
+
 <link href="style.css" rel="stylesheet"></link>
 
 <script src='script.js'>
